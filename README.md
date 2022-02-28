@@ -2,33 +2,44 @@
 
 
 ## Usage
- - clone project
- - cd DB_React
+ 1- clone project
+ <br>
+ 2- cd DB_React
  ### back
- - cd back 
- - run ```
+ 1- cd back 
+ <br>
+ 2- run ```
        yarn
        ``` 
 in terminal.
- - run ```
+ <br>
+ 3- run ```
        yarn start
        ``` 
 
 ### front
- - cd front 
- - run ```
+ 1- cd front
+ <br>
+ 2- run ```
        yarn
        ``` 
 in terminal.
- - run ```
+ <br>
+ 3- run ```
        yarn start
        ``` 
       
-<img src="https://github.com/sajadsarlaki/DB_project_react/blob/master/screen-shot/first.png" align="left"  width="250" height="125">
-<img src="https://github.com/sajadsarlaki/DB_project_react/blob/master/screen-shot/edit.png"   align="left" width="250" height="125">
-<br /><br /><br />
-<img src="https://github.com/sajadsarlaki/DB_project_react/blob/master/screen-shot/delet.png"  align="left" width="250" height="125">
+      
+<p align="left">
+    <img src="https://github.com/sajadsarlaki/DB_project_react/blob/master/screen-shot/first.png"   width="250" height="125">
+    <img src="https://github.com/sajadsarlaki/DB_project_react/blob/master/screen-shot/edit.png"   width="250" height="125">
+    <img src="https://github.com/sajadsarlaki/DB_project_react/blob/master/screen-shot/delet.png"   width="250" height="125">
+</p> 
+<p align="left">
+    <img src="https://github.com/sajadsarlaki/DB_project_react/blob/master/screen-shot/login.png"   width="250" height="125">
+    <img src="https://github.com/sajadsarlaki/DB_project_react/blob/master/screen-shot/signup.png"   width="250" height="125">
+    <img src="https://github.com/sajadsarlaki/DB_project_react/blob/master/screen-shot/compose.png"   width="250" height="125">
+</p> 
 
-<img src="https://github.com/sajadsarlaki/DB_project_react/blob/master/screen-shot/login.png"  align="left" width="250" height="125">
-<img src="https://github.com/sajadsarlaki/DB_project_react/blob/master/screen-shot/signup.png"  align="left" width="250" height="125">
+
 
