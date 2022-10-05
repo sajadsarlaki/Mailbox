@@ -1,4 +1,4 @@
-# DB_project_react
+# Mailbox
 
 
 ## Usage
